@@ -12,3 +12,5 @@ conducting and analyzing scalability studies on various degrees of parallelism a
 3. To obtain exposure to, and an appreciation for, a common realKworld clustering problem , because 
 cluster analysis represents an important class of problem  in various domains including, but not limited 
 to, data mining and statistical data analysis. 
+
+All rights reserved by Amey Ghadigaonkar and Vasilii Artemev
